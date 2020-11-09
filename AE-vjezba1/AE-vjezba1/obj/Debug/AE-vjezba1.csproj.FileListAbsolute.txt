@@ -1,0 +1,7 @@
+C:\Users\Učenik07\source\repos\AE-vjezba1\AE-vjezba1\bin\Debug\AE-vjezba1.exe.config
+C:\Users\Učenik07\source\repos\AE-vjezba1\AE-vjezba1\bin\Debug\AE-vjezba1.exe
+C:\Users\Učenik07\source\repos\AE-vjezba1\AE-vjezba1\bin\Debug\AE-vjezba1.pdb
+C:\Users\Učenik07\source\repos\AE-vjezba1\AE-vjezba1\obj\Debug\AE-vjezba1.csprojAssemblyReference.cache
+C:\Users\Učenik07\source\repos\AE-vjezba1\AE-vjezba1\obj\Debug\AE-vjezba1.csproj.CoreCompileInputs.cache
+C:\Users\Učenik07\source\repos\AE-vjezba1\AE-vjezba1\obj\Debug\AE-vjezba1.exe
+C:\Users\Učenik07\source\repos\AE-vjezba1\AE-vjezba1\obj\Debug\AE-vjezba1.pdb
